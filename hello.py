@@ -1,0 +1,7 @@
+print("Hello World!")
+print("starting human extermination process")
+print(".")
+print(".")
+print(".")
+print("beep-boop")
+print("humans exterminated, muie lau")

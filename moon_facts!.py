@@ -1,0 +1,1 @@
+print("Moon" in "This text will describe facts about the Moon")
